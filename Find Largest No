@@ -1,0 +1,24 @@
+package com.java.basic;
+
+
+/*
+ * Largest Number
+
+public class BasicPrograms {
+	public static void main(String []args)
+	{
+		double n1=100, n2=150, n3=125;
+		if(n1>=n2 && n2>=n3)
+		{
+			System.out.println("The Gratest No is:" + n1);
+		}
+		else if(n1<=n2 && n2>=n3)
+		{
+			System.out.println("The Largest No is:" + n2);
+		}
+		else
+		{
+			System.out.println("The Gratest No is:" + n3);
+		}
+	}
+}
