@@ -1,0 +1,20 @@
+package com.java.basic;
+
+public class BasicPrograms
+{
+
+	public static void main(String[]args)
+	{
+	    char n1 = '1';
+	    char A = 0;
+	    char Z = 0;
+		if(n1>=A && n1<=Z)
+		{
+			System.out.println("The Character is Alphabet");
+		}
+		else
+		{
+			System.out.println("The Character is not a Alphabet");
+		}
+	}
+}
